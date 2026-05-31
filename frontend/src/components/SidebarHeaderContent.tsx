@@ -15,7 +15,7 @@ export const SidebarHeaderContent: React.FC = () => {
         </span>
       </div>
 
-      <div className="rounded-xl bg-sidebar-accent/50 p-4 border border-sidebar-border">
+      <div className="rounded-xl bg-gradient-to-br from-white/[0.06] to-white/[0.02] p-4 border border-white/[0.08] backdrop-blur-xl shadow-[0_8px_32px_rgba(0,0,0,0.3),inset_0_1px_0_rgba(255,255,255,0.06)]">
         <h3 className="text-xs font-semibold text-primary uppercase tracking-wider mb-3 select-none">
           Your Birth Chart
         </h3>

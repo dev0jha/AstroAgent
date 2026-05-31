@@ -7,7 +7,7 @@ const App: React.FC = () => {
   return (
     <SidebarProvider className="flex">
       <Sidebar className="border-r border-[#2c2c2c]">
-        <SidebarHeader className="bg-[#191919]">
+        <SidebarHeader className="bg-[#121212]">
           <SidebarHeaderContent />
         </SidebarHeader>
       </Sidebar>
